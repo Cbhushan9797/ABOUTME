@@ -1,0 +1,45 @@
+.navbar{
+    height:6rem;
+    width: 100vw;
+    background-color:black;
+    position: fixed;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.logo h1{
+    font-size:2.3rem;
+}
+
+.logo h1 span{
+    color:rgb(1, 91, 91)
+}
+
+.listItems{
+   
+}
+.list{
+    margin-left: 3rem;
+    
+ 
+}
+.list:hover{
+    padding-bottom: 0.55rem;
+    border-bottom: 4px solid rgb(1, 91, 91);
+    color:rgb(1, 91, 91);
+
+}
+
+.btn{
+    height: 3rem;
+    width: 10vw;
+    border: node;
+    color: black;
+    font-weight: 700;
+    background-color: white;
+    border-radius: 8rem;
+}
+.btn:hover{
+    background-color: rgb(1, 91, 91);
+}

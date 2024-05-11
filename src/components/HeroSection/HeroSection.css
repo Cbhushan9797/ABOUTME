@@ -1,0 +1,33 @@
+.heroSection{
+    color:white;
+    height: 35rem;
+    background-color:rgb(13,13,13);
+    width: 100vw;
+    display: flex;
+}
+.left{
+  /* background-color: rgb(13,13,13); */
+  height: 40rem;
+  width: 50vw;
+  padding-top: 15rem;
+  padding-left: 5rem;
+}
+.heroSectionh1{
+    font-size: 1.2rem;
+}
+.heroSectionh1 span{
+    color: rgb(1, 91, 91);
+}
+
+.stack{
+    font-size: 1.5rem;
+}
+.right{
+    background-color: rgb(13,13,13);
+}
+.myImage{ 
+    height: 30rem;
+    padding-top:10rem;
+    padding-left:10rem;
+    padding-right: 2rem;
+}
